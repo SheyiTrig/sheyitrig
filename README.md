@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🔧 Skills: PHP | Flutter | JavaScript | React | Node.js | Laravel
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate with developers on projects that'll enhance my skills
 
 🌟 Notable Projects:
 - Weather App: A weather forecasting application using Flutter and OpenWeather API.
